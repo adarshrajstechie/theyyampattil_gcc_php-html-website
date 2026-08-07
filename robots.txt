@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Disallow: /config/
+Disallow: /includes/
+Disallow: /private/
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /temp/
+Disallow: /tmp/
+Disallow: /vendor/
+Disallow: /admin/
+Disallow: /backend/
+Disallow: *.php$
+Disallow: *.inc$
+Disallow: *.log$
+Disallow: *.sql$
+
+Sitemap: https://theyyampattilgcc.com/sitemap.xml
